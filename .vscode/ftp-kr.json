@@ -1,0 +1,16 @@
+{
+    "host": "103.3.63.243",
+    "username": "dentassure",
+    "password": "xzHk97&7q7nfT1#0",
+    "remotePath": "staging.dentassure.com",
+    "protocol": "sftp",
+    "port": 32222,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": true,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
